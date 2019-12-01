@@ -1,0 +1,11 @@
+#Kontener{
+    -fx-background-color: rgb(53,56,63);
+}
+
+.chart-plot-background{
+    -fx-background-color: black;
+    -fx-foreground-color: white;
+    -fx-stroke: white;
+}
+
+
